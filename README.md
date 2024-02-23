@@ -1,7 +1,3 @@
-All right! Here's a revamped README in Thai crafted for clarity and ease of understanding:
-
-**README**
-
 # เครื่องนับจำนวนคนด้วยเซ็นเซอร์ Ultrasonic และจอ LCD แบบ I2C
 
 ## Overview
